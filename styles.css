@@ -393,6 +393,10 @@ form {
     display: flex;
 }
 
+.media-link {
+    color: var(--clr-light);
+}
+
 .media-icon:hover,
 .media-icon:focus {
     background-color: var(--clr-pink);
